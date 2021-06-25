@@ -1,5 +1,7 @@
 # first-slack-app
 
+`git clone git@github.com:hndrr/first-slack-app.git`
+
 `npm install`
 
 `WEBHOOK_URL="https://hooks.slack.com/services/hogehoge" SLACK_TEXT="なんかテキスト入れる"  node scripts/webhooks.js`
