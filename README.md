@@ -1,5 +1,5 @@
 # first-slack-app
-https://api.slack.com/apps/A02669D13TM/incoming-webhooks
+https://api.slack.com/messaging/webhooks#
 
 `git clone git@github.com:hndrr/first-slack-app.git`
 
